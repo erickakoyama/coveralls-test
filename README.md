@@ -1,4 +1,4 @@
-[![Coverage Status](https://coveralls.io/repos/github/erickakoyama/coveralls-test/badge.svg?branch=master)](https://coveralls.io/github/erickakoyama/coveralls-test?branch=master)
+[![Build Status](https://travis-ci.com/liferay/com-liferay-osb-faro-private.svg?token=FA4jxTJyMcsHnJQjGYZn&branch=7.1.x-private)](https://travis-ci.com/liferay/com-liferay-osb-faro-private)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
